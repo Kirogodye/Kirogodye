@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kirogodye98" target="blank"><img src="https://img.shields.io/twitter/follow/kirogodye98?logo=twitter&style=for-the-badge" alt="kirogodye98" /></a> </p>
 
-- 🔭 I’m currently working on **kirogodye**
+- 🔭 I’m currently working to create new web site and app.
 
 - 🌱 I’m currently learning **Laravel**
 
