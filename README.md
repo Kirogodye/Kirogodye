@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirogodye" alt="kirogodye" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kirogodye" target="blank"><img src="https://img.shields.io/twitter/follow/kirogodye?logo=twitter&style=for-the-badge" alt="kirogodye" /></a> </p>
+<p align="left"> <a href="https://x.com/kirogodye" target="blank"><img src="https://img.shields.io/twitter/follow/kirogodye?logo=twitter&style=for-the-badge" alt="kirogodye" /></a> </p>
 
 - 🔭 I’m currently working on [Inkinolive](https://www.inkinolive.com)
 
@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://codepen.io/kirogodye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kirogodye" height="30" width="40" /></a>
 <a href="https://dev.to/kirogodye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kirogodye" height="30" width="40" /></a>
-<a href="https://twitter.com/kirogodye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirogodye" height="30" width="40" /></a>
+<a href="https://x.com/kirogodye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirogodye" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kirogodye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirogodye" height="30" width="40" /></a>
 <a href="https://fb.com/kiro.cony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiro.cony" height="30" width="40" /></a>
 <a href="https://instagram.com/kirogodye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirogodye" height="30" width="40" /></a>
