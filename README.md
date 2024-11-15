@@ -73,10 +73,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirogodye&show_icons=true&locale=en" alt="kirogodye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirogodye&" alt="kirogodye" /></p>
-
-<h3 align="left">Issues and Commits:</h3>
-<p align="left">
-<a href="https://github.com/kirogodye/your-repo/issues" target="blank"><img align="center" src="https://img.shields.io/github/issues/kirogodye/your-repo?style=for-the-badge" alt="GitHub issues" /></a>
-<a href="https://github.com/kirogodye/your-repo/commits/main" target="blank"><img align="center" src="https://img.shields.io/github/commit-activity/m/kirogodye/your-repo?style=for-the-badge" alt="GitHub commits" /></a>
-</p>
-
